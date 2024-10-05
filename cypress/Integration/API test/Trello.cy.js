@@ -53,8 +53,8 @@
 
 describe("Test suite", () => {
     const base_url = "https://api.trello.com";
-        const api_key = "";
-        const api_token ="";
+        const api_key = "9ac8fbe010f91a85f29b5a89898ae5eb";
+        const api_token ="ATTA228245e7472d2afb389b0a5dfae82607fde676e51fbd85489f9c798319f012d20B2F22B0";
         const board_name = "workspace";
         let id;
       
